@@ -1,12 +1,35 @@
- 👋 **Hi, I’m vincent Muli**
-         - 👀 I’m interested in web development and creating seamless user experiences.
-        - 🌱 I’m currently learning python, with a focus of intergrating it into web projects.
-        - 💞️ I’m looking to collaborate on python projects, especially those involve full-stack web development.
-        - 📫 How to reach me: vincentmuthiani15@gmail.com
-        - 😄 Pronouns:He/Him
-        - ⚡ Fun fact: i enjoy solving complex problem and am always up for coding challenge!
+**Hi there, I’m Vincent Muli 👋**
 
-<!---
-vincentiano23/vincentiano23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **I’m interested in**:  
+  Web development, creating seamless user experiences, and solving complex problems.
+
+- 🌱 **What I’m currently learning**:  
+  - Python, with a focus on integrating it into web projects.  
+  - Expanding my skills by working on **C** and **C++** projects.
+
+- 💞️ **I’m looking to collaborate on**:  
+  Python projects, especially those involving full-stack web development, as well as C and C++ projects.
+
+- 😄 **Pronouns**:  
+  He/Him
+
+- ⚡ **Fun fact**:  
+  I enjoy tackling coding challenges and always strive to find the most efficient solutions to complex problems.
+
+- 📫 **How to reach me**:  
+  [Email](mailto:vincentmuthiani15@gmail.com) | [GitHub Profile](https://github.com/vincentiano23)
+
+---
+
+** Languages and Tools:**
+- Python 🐍
+- Django 🌐
+- JavaScript 📜
+- C/C++ 🔧
+- Bootstrap 🎨
+- Git & GitHub 🖥️
+
+
+
+
+
