@@ -1,28 +1,43 @@
-**Hi there, I’m Vincent Muli 👋**
+# 👋 Hi there, I’m Vincent Muli
 
-- 👀 **I’m interested in**:  
-  Web development, creating seamless user experiences, and solving complex problems.
+I'm a passionate full-stack web developer with a strong focus on **Django (Python)** and **PHP**. I enjoy building clean, efficient, and scalable web applications, and I'm constantly exploring new technologies to improve my craft.
 
-- 🌱 **What I’m currently learning**:  
-  - Python, with a focus on integrating it into web projects.  
-  - Expanding my skills by working on **C** and **C++** projects.
+## 🔍 Interests
+- Building intuitive and seamless web applications  
+- Creating solutions to real-world problems using technology  
+- Contributing to open-source projects and collaborating with other developers
 
-- 💞️ **I’m looking to collaborate on**:  
-  Python projects, especially those involving full-stack web development, as well as C and C++ projects.
+## 🌱 Currently Learning
+- Advanced Django techniques and best practices  
+- Integrating **Python** with frontend frameworks and third-party APIs  
+- Low-level programming with **C** and **C++** to better understand system-level development
 
-- 😄 **Pronouns**:  
-  He/Him
+## 🤝 Open to Collaborate On
+- Django-based full-stack web development projects  
+- PHP-based applications and APIs  
+- Systems programming projects in C or C++
 
-- ⚡ **Fun fact**:  
-  I enjoy tackling coding challenges and always strive to find the most efficient solutions to complex problems.
+## 💬 Pronouns
+He/Him
 
-- 📫 **How to reach me**:  
-  [Email](mailto:vincentmuthiani15@gmail.com) | [GitHub Profile](https://github.com/vincentiano23)
+## ⚡ Fun Fact
+I love tackling coding challenges and am always on the lookout for the most elegant and efficient solution—clean code is my superpower.
+
+## 📫 How to Reach Me
+[📧 Email](mailto:vincentmuthiani15@gmail.com) | [🔗 GitHub Profile](https://github.com/vincentiano23)
 
 ---
 
-** Languages and Tools:**
-- Python 🐍
+## 🛠️ Languages & Tools
+- **Languages**: Python, PHP, C, C++, JavaScript, HTML5, CSS3  
+- **Frameworks**: Django, Laravel (beginner), Bootstrap  
+- **Tools & Technologies**: Git, GitHub, VS Code, MySQL, SQLite, Linux
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+
+
 - Django 🌐
 - JavaScript 📜
 - C/C++ 🔧
