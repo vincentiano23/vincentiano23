@@ -26,14 +26,12 @@ I love tackling coding challenges and am always on the lookout for the most eleg
 ## 📫 How to Reach Me
 [📧 Email](mailto:vincentmuthiani15@gmail.com) | [🔗 GitHub Profile](https://github.com/vincentiano23)
 
----
 
 ## 🛠️ Languages & Tools
 - **Languages**: Python, PHP, C, C++, JavaScript, HTML5, CSS3  
 - **Frameworks**: Django, Laravel (beginner), Bootstrap  
 - **Tools & Technologies**: Git, GitHub, VS Code, MySQL, SQLite, Linux
 
----
 
 > “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
 
